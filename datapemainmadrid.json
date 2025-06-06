@@ -4,7 +4,7 @@
     {
       "name": "Thibaut Courtois",
       "number": 1,
-      "posisition": "Goalkeeper",
+      "position": "Goalkeeper",
       "nationality": "Belgium",
       "contract_until": 2026,
       "photo": "https://postimage.me/images/2025/06/06/thibaut.jpg",
@@ -12,7 +12,7 @@
     {
       "name": "Éder Militão",
       "number": 3,
-      "posisition": "Defender",
+      "position": "Defender",
       "nationality": "Brazil",
       "contract_until": 2028,
       "photo" : "https://postimage.me/images/2025/06/06/eder.jpg"
@@ -20,7 +20,7 @@
     {
       "name": "David Alaba",
       "number": 4,
-      "posisition": "Defender",
+      "position": "Defender",
       "nationality": "Austria",
       "contract_until": 2026,
       "photo": "https://postimage.me/images/2025/06/06/david.jpg"
@@ -28,7 +28,7 @@
     {
       "name": "Aurélien Tchouaméni",
       "number": 18,
-      "posisition": "Midfielder",
+      "position": "Midfielder",
       "nationality": "France",
       "contract_until": 2028,
       "photo" : "https://postimage.me/images/2025/06/06/aur.jpg"
@@ -36,7 +36,7 @@
     {
       "name": "Federico Valverde",
       "number": 15,
-      "posisition": "Midfielder",
+      "position": "Midfielder",
       "nationality": "Uruguay",
       "contract_until": 2027,
       "photo" : "https://postimage.me/images/2025/06/06/federico.jpg"
@@ -44,7 +44,7 @@
     {
       "name": "Luka Modrić",
       "number": 10,
-      "posisition": "Midfielder",
+      "position": "Midfielder",
       "nationality": "Croatia",
       "contract_until": 2025,
       "photo" : "https://postimage.me/images/2025/06/06/luka.jpg"
@@ -52,7 +52,7 @@
     {
       "name": "Jude Bellingham",
       "number": 5,
-      "posisition": "Midfielder",
+      "position": "Midfielder",
       "nationality": "England",
       "contract_until": 2029,
       "photo" : "https://postimage.me/images/2025/06/06/jude.jpg"
@@ -60,7 +60,7 @@
     {
       "name": "Rodrygo Goes",
       "number": 11,
-      "posisition": "Forward",
+      "position": "Forward",
       "nationality": "Brazil",
       "contract_until": 2028,
       "photo" : "https://postimage.me/images/2025/06/06/rodrygo.jpg"
@@ -68,7 +68,7 @@
     {
       "name": "Vinícius Júnior",
       "number": 7,
-      "posisition": "Forward",
+      "position": "Forward",
       "nationality": "Brazil",
       "contract_until": 2027,
       "photo" : "https://postimage.me/images/2025/06/06/vinicius.jpg"
@@ -76,7 +76,7 @@
     {
       "name": "Joselu",
       "number": 14,
-      "posisition": "Forward",
+      "position": "Forward",
       "nationality": "Spain",
       "contract_until": 2024,
       "photo" : "https://postimage.me/images/2025/06/06/joselu.jpg"
